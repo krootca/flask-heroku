@@ -1,0 +1,9 @@
+:root {
+	--color-white: white;
+}
+
+body{
+	background-color: var(--color-white);
+}
+
+/*Edit this*/
